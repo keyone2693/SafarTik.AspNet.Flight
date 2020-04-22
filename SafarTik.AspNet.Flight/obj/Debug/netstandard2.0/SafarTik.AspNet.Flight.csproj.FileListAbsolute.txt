@@ -1,0 +1,5 @@
+D:\Code\Package\C#\SafarTik.AspNet.Flight\SafarTik.AspNet.Flight\bin\Debug\netstandard2.0\SafarTik.AspNet.Flight.deps.json
+D:\Code\Package\C#\SafarTik.AspNet.Flight\SafarTik.AspNet.Flight\bin\Debug\netstandard2.0\SafarTik.AspNet.Flight.dll
+D:\Code\Package\C#\SafarTik.AspNet.Flight\SafarTik.AspNet.Flight\obj\Debug\netstandard2.0\SafarTik.AspNet.Flight.csprojAssemblyReference.cache
+D:\Code\Package\C#\SafarTik.AspNet.Flight\SafarTik.AspNet.Flight\obj\Debug\netstandard2.0\SafarTik.AspNet.Flight.AssemblyInfoInputs.cache
+D:\Code\Package\C#\SafarTik.AspNet.Flight\SafarTik.AspNet.Flight\obj\Debug\netstandard2.0\SafarTik.AspNet.Flight.AssemblyInfo.cs
