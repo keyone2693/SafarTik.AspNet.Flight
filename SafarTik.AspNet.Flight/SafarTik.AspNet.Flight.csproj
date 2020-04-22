@@ -5,6 +5,12 @@
     <Version>1.0.2</Version>
     <Description>AspNet nuget package for SafarTik flight webservice based on .netstandard 2+</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/keyone2693/SafarTik.AspNet.Flight</PackageProjectUrl>
+    <PackageIcon>SafarTik.jpg</PackageIcon>
+    <RepositoryUrl>https://github.com/keyone2693/SafarTik.AspNet.Flight</RepositoryUrl>
+    <RepositoryType>public</RepositoryType>
+    <PackageTags>Flight , Iran</PackageTags>
+    <PackageReleaseNotes>first version</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,6 +19,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="..\..\..\Files\SafarTik.jpg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
     <None Include="LICENSE">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
