@@ -1,4 +1,4 @@
-﻿MadPay 724 AspNetCore SDK
+SafarTik.AspNet.Flight
  
 [![Build status](https://img.shields.io/appveyor/ci/keyone2693/imageresizer-aspnetcore.svg)](https://ci.appveyor.com/project/keyone2693/safartik-aspnet-flight)
 [![NuGet](https://img.shields.io/nuget/v/SafarTik.AspNet.Flight.svg)](https://www.nuget.org/packages/SafarTik.AspNet.Flight/)
