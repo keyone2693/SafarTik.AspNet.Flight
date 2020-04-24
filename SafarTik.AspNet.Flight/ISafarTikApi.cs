@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace SafarTik.AspNet.Flight
 {
-    public interface ISafarTik
+    public interface ISafarTikApi
     {
         Task<SafarTikResult<STLoginResponse>> LoginAsync(STLoginRequest sTLoginRequest);
 
