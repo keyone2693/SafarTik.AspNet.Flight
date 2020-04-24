@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>1.0.2</Version>
+    <Version>1.0.4</Version>
     <Description>AspNet nuget package for SafarTik flight webservice based on .netstandard 2+</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/keyone2693/SafarTik.AspNet.Flight</PackageProjectUrl>
@@ -10,7 +10,7 @@
     <RepositoryUrl>https://github.com/keyone2693/SafarTik.AspNet.Flight</RepositoryUrl>
     <RepositoryType>public</RepositoryType>
     <PackageTags>Flight , Iran</PackageTags>
-    <PackageReleaseNotes>first version</PackageReleaseNotes>
+    <PackageReleaseNotes>bug fixes</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,6 +19,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="..\..\..\Asp\MadPay724.AspNetCore.GateWay\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
     <None Include="..\..\..\Files\SafarTik.jpg">
       <Pack>True</Pack>
       <PackagePath></PackagePath>

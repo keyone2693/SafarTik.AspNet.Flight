@@ -10,7 +10,7 @@ using SafarTik.AspNet.Flight.Extentions;
 
 namespace SafarTik.AspNet.Flight
 {
-    public class SafarTikApi : ISafarTikApi, IDisposable
+    public class SafarTikFlight : ISafarTikFlight, IDisposable
     {
 
         #region ctor
@@ -18,7 +18,7 @@ namespace SafarTik.AspNet.Flight
         private StringContent _content;
         private HttpResponseMessage _response;
 
-        public SafarTikApi()
+        public SafarTikFlight()
         {
             _http = new HttpClient();
         }
@@ -276,7 +276,7 @@ namespace SafarTik.AspNet.Flight
 
 
 
-        ~SafarTikApi()
+        ~SafarTikFlight()
         {
             Dispose(true);
         }

@@ -8,7 +8,7 @@ namespace SafarTik.AspNet.Flight.Extentions
     {
         public static IServiceCollection AddMadpay724GateWay(this IServiceCollection services)
         {
-            return services.AddScoped<ISafarTikApi, SafarTikApi>();
+            return services.AddScoped<ISafarTikApi, SafarTikFlight>();
         }
 
 
